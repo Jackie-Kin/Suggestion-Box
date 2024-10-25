@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ba2b5c67c31dd2102adc1b477d013162" label="User" max_length="40" name="x_1553766_sugges_0_user" type="collection">
-        <element label="Name" max_length="40" name="name" type="string"/>
-    </element>
-</database>

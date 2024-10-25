@@ -2,6 +2,7 @@
     <element db_object_id="ad19e0d3c39992102adc1b477d01317b" label="Suggestion" max_length="40" name="x_1553766_sugges_0_suggestion" text_index="true" type="collection">
         <element label="Closed date" max_length="40" name="closed_date" type="glide_date"/>
         <element label="Submission Date" max_length="40" name="submission_date" type="glide_date"/>
+        <element label="Submitter" max_length="32" name="submitter" reference="sys_user" type="reference"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
@@ -12,11 +13,17 @@
                 <element inactive_on_update="false" label="Declined" sequence="5" value="Declined"/>
             </choice>
         </element>
-        <element label="Submitter" max_length="40" name="submitter" reference="x_1553766_sugges_0_user" type="reference"/>
         <element label="Suggestion" max_length="40" name="suggestion" type="string"/>
-        <element attributes="test=test" choice="1" label="Type" max_length="40" name="type" type="choice">
-            <choice/>
+        <element attributes="test=test" choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Team Building" sequence="2" value="Team Building"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="1" value="Process Improvement"/>
+                <element inactive_on_update="false" label="Cost Savings" sequence="0" value="Cost Savings"/>
+            </choice>
         </element>
         <element label="Description" max_length="40" name="description" type="string"/>
+        <index name="index">
+            <element name="submitter"/>
+        </index>
     </element>
 </database>

@@ -10,15 +10,15 @@
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-22 13:24:56</sys_created_on>
-            <sys_mod_count>10</sys_mod_count>
+            <sys_created_on>2024-10-25 12:08:08</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
             <sys_name>Submitter</sys_name>
             <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
             <sys_update_name>sys_documentation_x_1553766_sugges_0_suggestion_submitter_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-23 02:58:55</sys_updated_on>
+            <sys_updated_on>2024-10-25 12:08:09</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -34,13 +34,13 @@
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>32</max_length>
         <name>x_1553766_sugges_0_suggestion</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_1553766_sugges_0_user">x_1553766_sugges_0_user</reference>
+        <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 13:24:56</sys_created_on>
+        <sys_created_on>2024-10-25 12:08:08</sys_created_on>
         <sys_name>Submitter</sys_name>
         <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
         <sys_update_name>sys_dictionary_x_1553766_sugges_0_suggestion_submitter</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-23 02:58:55</sys_updated_on>
+        <sys_updated_on>2024-10-25 12:08:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
