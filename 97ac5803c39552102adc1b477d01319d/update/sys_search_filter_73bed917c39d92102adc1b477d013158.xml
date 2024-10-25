@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Suggestion">7bbed917c39d92102adc1b477d01312f</ais_search_source>
+        <label>Suggestion</label>
+        <name>Suggestion</name>
+        <order>100</order>
+        <search_context_config display_value="Suggestion Box WorkSpace AI Search Configuration">1abe59170f9d92102ca46470737cb634</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 13:11:31</sys_created_on>
+        <sys_id>73bed917c39d92102adc1b477d013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
+        <sys_update_name>sys_search_filter_73bed917c39d92102adc1b477d013158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 13:11:31</sys_updated_on>
+    </sys_search_filter>
+</record_update>

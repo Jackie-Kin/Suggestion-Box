@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>1abe5917149d9210ac389974c49afa3d</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>suggestion-box-workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 13:11:26</sys_created_on>
+        <sys_id>56be5917b69d92105d40c7ef566b363d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion Box WorkSpace</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_56be5917b69d92105d40c7ef566b363d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 13:11:26</sys_updated_on>
+        <title>Suggestion Box WorkSpace</title>
+    </sys_ux_page_registry>
+</record_update>

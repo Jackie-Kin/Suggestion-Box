@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ad19e0d3c39992102adc1b477d01317b" label="Suggestion" max_length="40" name="x_1553766_sugges_0_suggestion" text_index="true" type="collection">
+        <element label="Closed date" max_length="40" name="closed_date" type="glide_date"/>
+        <element label="Submission Date" max_length="40" name="submission_date" type="glide_date"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
+                <element inactive_on_update="false" label="Implemented" sequence="3" value="Implemented"/>
+                <element inactive_on_update="false" label="Deferred" sequence="4" value="Deferred"/>
+                <element inactive_on_update="false" label="Under Review" sequence="1" value="Under Review"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Declined" sequence="5" value="Declined"/>
+            </choice>
+        </element>
+        <element label="Submitter" max_length="40" name="submitter" reference="x_1553766_sugges_0_user" type="reference"/>
+        <element label="Suggestion" max_length="40" name="suggestion" type="string"/>
+        <element attributes="test=test" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+        <element label="Description" max_length="40" name="description" type="string"/>
+    </element>
+</database>

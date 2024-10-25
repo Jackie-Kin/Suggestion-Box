@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Suggestion Box WorkSpace App Config">1abe5917149d9210ac389974c49afa3d</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams,views,selectedTabIndex</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">16be59176a9d92100739d583e59a3132</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 13:11:26</sys_created_on>
+        <sys_id>d2be5917099d9210909bbf2dff6f4933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
+        <sys_update_name>sys_ux_app_route_d2be5917099d9210909bbf2dff6f4933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 13:11:26</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d2be5917099d9210909bbf2dff6f4933"/>
+</record_update>

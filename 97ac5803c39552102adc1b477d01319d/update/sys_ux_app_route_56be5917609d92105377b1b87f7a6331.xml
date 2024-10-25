@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Suggestion Box WorkSpace App Config">1abe5917149d9210ac389974c49afa3d</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysid</fields>
+        <icon/>
+        <name>Visualization Designer</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>visualization-designer</route_type>
+        <screen_type display_value="Visualization Designer">5ebe5917179d9210e0f2ea205aba9332</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 13:11:27</sys_created_on>
+        <sys_id>56be5917609d92105377b1b87f7a6331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1553766_sugges_0">97ac5803c39552102adc1b477d01319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">97ac5803c39552102adc1b477d01319d</sys_scope>
+        <sys_update_name>sys_ux_app_route_56be5917609d92105377b1b87f7a6331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 13:11:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=56be5917609d92105377b1b87f7a6331"/>
+</record_update>
