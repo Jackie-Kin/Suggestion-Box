@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ad19e0d3c39992102adc1b477d01317b" label="Suggestion" max_length="40" name="x_1553766_sugges_0_suggestion" text_index="true" type="collection">
-        <element label="Closed date" max_length="40" name="closed_date" type="glide_date"/>
+        <element display="true" label="Closed date" max_length="40" name="closed_date" type="glide_date"/>
         <element label="Submission Date" max_length="40" name="submission_date" type="glide_date"/>
         <element label="Submitter" max_length="32" name="submitter" reference="sys_user" type="reference"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
